@@ -4,10 +4,10 @@
 CMS recently required all hospitals to release their charge master data (how much they charge for things) and many institutions are claiming that their increased prices are due to increased qualty of care. I plan to bring together the cost and quality datasets together for adusted cost comparison model. 
 
 ## What question or problem are you trying to solve?
-
+The main question I am trying to solve is what will a patient's expected cost be for their visit and does the quality of care justify the expected additional expenses. Additionally which institutions in my area will allow for the best care at the best price (similair to: https://www.goodrx.com/). 
 
 ## How will you present your work?
-This will be presented ideally as a search function where you can enter an issue and zip code and it will provide you with adjusted estimated costs for your visit at close locations. Additional information can be presented such as highest adjusted cost variability between hopsitals by diagnosis. 
+This will be presented ideally as a search function where you can enter an issue and zip code and it will provide you with adjusted estimated costs for your visit at close locations. Additional information can be presented such as highest adjusted cost variability between hopsitals by diagnosis. The data might even show institutions where the cost is greater without an increase in quality. 
 
 ## What are your data sources?
 CMS Charge master data: https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Inpatient.html 
